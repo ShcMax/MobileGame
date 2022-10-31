@@ -2,9 +2,6 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace Ui
-{
-
 
     internal class SettingsMenuView : MonoBehaviour
     {
@@ -13,7 +10,5 @@ namespace Ui
 
         public void Init(UnityAction backToMenu) => _buttonBack.onClick.AddListener(backToMenu);
 
-        public void OnDestroy() => _buttonBack.onClick.RemoveAllListeners();
-        
+        public void OnDestroy() => _buttonBack.onClick.RemoveAllListeners();        
     }
-}

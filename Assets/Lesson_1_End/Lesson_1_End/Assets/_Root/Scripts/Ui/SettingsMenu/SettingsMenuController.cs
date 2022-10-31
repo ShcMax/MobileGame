@@ -3,8 +3,7 @@ using Tool;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Ui
-{
+
     internal class SettingsMenuController : BaseController
     {
         private readonly ResourcePath _resourcePath = new ResourcePath("Prefabs/Ui/SettingsMenu");
@@ -33,4 +32,3 @@ namespace Ui
             _profilePlayer.CurrentState.Value = GameState.Start;
         }
     }
-}
