@@ -9,6 +9,7 @@ internal class MainController : BaseController
     private readonly ProfilePlayer _profilePlayer;
 
     private MainMenuController _mainMenuController;
+    
     private GameController _gameController;
 
 
