@@ -145,55 +145,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ButttonSettings_0
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 16
-        width: 7
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb9c25a20ca5e8aa0800000000000000
-      internalID: -6156883859178600005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ButttonSettings_1
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 7
-        width: 217
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 602945be223c008d0800000000000000
-      internalID: -2882089206772624890
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ButttonSettings_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 18
-        width: 220
-        height: 72
+        x: 58
+        y: 25
+        width: 167
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,69 +161,6 @@ TextureImporter:
       bones: []
       spriteID: 2124938cbaa121740800000000000000
       internalID: 5121185051374600722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ButttonSettings_3
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 7
-        width: 216
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc161794f499c4a10800000000000000
-      internalID: 1895058109029769679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ButttonSettings_4
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 21
-        width: 16
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9dd7ce36242405f0800000000000000
-      internalID: -791467887829721702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ButttonSettings_5
-      rect:
-        serializedVersion: 2
-        x: 266
-        y: 13
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6168c7fc0d36785e0800000000000000
-      internalID: -1907446168682723818
       vertices: []
       indices: 
       edges: []
