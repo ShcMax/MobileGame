@@ -5,7 +5,7 @@ using UnityStandardAssets.CrossPlatformInput;
 
 namespace Game.InputLogic
 {
-    internal class FloatInputJoystick : BaseInputView, IPointerDownHandler, IPointerUpHandler, IDragHandler
+    internal abstract class FloatInputJoystick : BaseInputView, IPointerDownHandler, IPointerUpHandler, IDragHandler
     {
         [Header("Components")]
         [SerializeField] private Joystick _joystick;

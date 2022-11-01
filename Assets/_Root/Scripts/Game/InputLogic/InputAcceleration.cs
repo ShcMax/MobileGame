@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Game.InputLogic
 {
-    internal class InputAcceleration : BaseInputView
+    internal abstract class InputAcceleration : BaseInputView
     {
         [SerializeField] private float _inputMultiplier = 0.05f;
 

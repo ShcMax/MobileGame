@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Game.InputLogic
 {
-    internal class GyroscopeInputView : BaseInputView
+    internal abstract class GyroscopeInputView : BaseInputView
     {
         [SerializeField] private float _inputMultiplier = 10;
 
