@@ -14,15 +14,12 @@ namespace Ui
         {
             _buttonStart.onClick.AddListener(startGame);
             _buttonSettings.onClick.AddListener(openSettings);
-
-        }
-           
+        }           
 
         public void OnDestroy()
         {
             _buttonStart.onClick.RemoveAllListeners();
             _buttonSettings.onClick.RemoveAllListeners();
-        }
-            
+        }            
     }
 }
