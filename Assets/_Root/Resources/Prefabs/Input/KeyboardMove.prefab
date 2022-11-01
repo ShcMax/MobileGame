@@ -43,4 +43,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85c6fe1db0ceb4147a08e8d6263d91f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _inputMultiplier: 0.01
+  _inputMultiplier: 0.77
