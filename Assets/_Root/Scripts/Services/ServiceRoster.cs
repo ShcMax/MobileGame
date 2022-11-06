@@ -6,8 +6,6 @@ using Services.Analytics;
 
 namespace Services
 {
-
-
     internal class ServiceRoster : MonoBehaviour
     {
         private static ServiceRoster _instance;
