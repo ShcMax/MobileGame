@@ -3,7 +3,6 @@ using Game.InputLogic;
 using Game.TapeBackground;
 using Profile;
 using Tool;
-using Services;
 
 namespace Game
 {
@@ -21,9 +20,7 @@ namespace Game
             AddController(inputGameController);
 
             var carController = new CarController();
-            AddController(carController);
-
-            ServiceRoster.Analytics.SendGameStarted();
+            AddController(carController);            
         }
     }
 }
